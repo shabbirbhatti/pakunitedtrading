@@ -19,8 +19,10 @@ const Footer = () => {
             </p>
             <div className="space-y-2">
               <a
-                href="tel:+819074210923"
-                className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
+                href="https://wa.me/819074210923?text=Hello%20Pak%20United%20Trading%20Japan!%20I%20need%20information%20about%20your%20services."
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 text-muted-foreground hover:text-[#25D366] transition-colors"
               >
                 <Phone className="h-4 w-4" />
                 <span>+81 90-7421-0923</span>

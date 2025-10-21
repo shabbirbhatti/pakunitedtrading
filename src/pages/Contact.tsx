@@ -105,16 +105,19 @@ const Contact = () => {
             <Card>
               <CardContent className="p-6">
                 <div className="flex items-start gap-4">
-                  <div className="p-3 bg-primary/10 rounded-lg">
-                    <Phone className="h-6 w-6 text-primary" />
+                  <div className="p-3 bg-[#25D366]/10 rounded-lg">
+                    <Phone className="h-6 w-6 text-[#25D366]" />
                   </div>
-                  <div>
+                  <div className="flex-1">
                     <h3 className="font-semibold mb-1">{t('contact.phone')}</h3>
                     <a
-                      href="tel:+819074210923"
-                      className="text-muted-foreground hover:text-primary transition-colors"
+                      href="https://wa.me/819074210923?text=Hello%20Pak%20United%20Trading%20Japan!%20I%20need%20information%20about%20your%20services."
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-muted-foreground hover:text-[#25D366] transition-colors flex items-center gap-2"
                     >
-                      +81 90-7421-0923
+                      <span>+81 90-7421-0923</span>
+                      <span className="text-xs bg-[#25D366] text-white px-2 py-1 rounded">WhatsApp</span>
                     </a>
                   </div>
                 </div>
