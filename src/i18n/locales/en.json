@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "testimonials": "Community Work",
+    "contact": "Contact",
+    "quote": "Get Quote"
+  },
+  "hero": {
+    "title": "Pak United Trading Corporation Japan",
+    "subtitle": "Excellence in Japanese Automotive Services Since 1980",
+    "description": "Your trusted partner for Japanese cars, spare parts, repairs, and import/export services in Tokyo. Led by Hameed Sacho, serving the community with integrity for over 40 years.",
+    "cta": "Get Started",
+    "ctaSecondary": "Our Services"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Building Bridges Between Pakistan and Japan",
+    "ownerTitle": "Meet Hameed Sacho",
+    "ownerSubtitle": "Founder & Social Worker",
+    "ownerDescription": "With over 40 years of dedicated service in Japan, Hameed Sacho has built Pak United Trading Corporation into a trusted name in automotive services. Beyond business, he is deeply committed to supporting the Pakistani community, helping job seekers, and contributing to charitable causes. His mission is to create opportunities and foster unity between Pakistan and Japan.",
+    "experience": "Years in Japan",
+    "community": "Community Projects",
+    "jobsHelped": "Jobs Facilitated"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Automotive Solutions",
+    "car_sales": {
+      "title": "Japanese Cars Sales",
+      "description": "Premium selection of Japanese vehicles with expert guidance and competitive pricing."
+    },
+    "spare_parts": {
+      "title": "Cutting Car Spare Parts",
+      "description": "Authentic Japanese auto parts with precision cutting and customization services."
+    },
+    "denting": {
+      "title": "Denting & Painting",
+      "description": "Professional body work and paint refinishing to restore your vehicle's appearance."
+    },
+    "electrical": {
+      "title": "Electrical Repairs",
+      "description": "Expert diagnosis and repair of automotive electrical systems and components."
+    },
+    "general": {
+      "title": "General Car Repair",
+      "description": "Complete maintenance and repair services for all vehicle makes and models."
+    },
+    "import": {
+      "title": "Import & Export",
+      "description": "Seamless international vehicle and parts trading with customs expertise."
+    }
+  },
+  "testimonials": {
+    "title": "Community Impact",
+    "subtitle": "Serving the Pakistani Community in Japan"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch Today",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Your Message",
+    "send": "Send Message",
+    "location": "Location",
+    "locationValue": "Tokyo, Japan",
+    "hours": "Business Hours",
+    "hoursValue": "Mon-Sat: 9:00 AM - 6:00 PM"
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Get a Free Estimate for Our Services",
+    "service": "Select Service",
+    "vehicle": "Vehicle Make/Model",
+    "date": "Preferred Date",
+    "time": "Preferred Time",
+    "details": "Additional Details",
+    "submit": "Submit Request"
+  },
+  "footer": {
+    "description": "Excellence in Japanese automotive services, connecting Pakistan and Japan through quality and trust.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "whatsapp": {
+    "message": "Hello Pak United Trading Japan! I need information about your services."
+  }
+}
